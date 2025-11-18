@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">Triage in primary care settings</name>
+			<description lang="und" />
+			<launch lang="und">index_lms.html</launch>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/5r33T1v3Hax" type="http://adlnet.gov/expapi/activities/objective">
+			<name lang="und">Triage in primary care settings</name>
+			<description lang="und">Triage in primary care settings</description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/61y9JeLpdva" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Module Title slide</name>
+			<description lang="und">Module Title slide</description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/6SmsqC79BGc" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Overview</name>
+			<description lang="und">Overview</description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/5mbkjJDq1lU" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/5gNg1D64prM" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/6NszlPJNGB8" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/6Z9AuJQfE7F" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/5v3hSKYegKC" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/6QToILy2VZT" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/5eoz49CXjPn" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/6YYt7rZvfEb" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">1</name>
+			<description lang="und">1</description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/6ZUgOTUcZjK" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Learning objectives</name>
+			<description lang="und">Learning objectives</description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/5v5x03suwkc" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/6WwSMc23bu3" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Introduction</name>
+			<description lang="und">Introduction</description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/5u6ScARIRDq" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/6fe1ifIF73E" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/5jJTcsuWgXe" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Triage types</name>
+			<description lang="und">Triage types</description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/6KLUqi7tQOA" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/6FJ16jHN4fl" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/6BK72JgmjTL" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/5YzDnAX7Nvn" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/5q1kBBMvKS9" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Triage purpose</name>
+			<description lang="und">Triage purpose</description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/6IQr4DHVORN" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/6MdO9V1l6kI" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/5Vs13SjlQAi" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/5aYKmXmDGMe" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">When is triage performed?</name>
+			<description lang="und">When is triage performed?</description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/6NYzmQBQ0nG" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/6i0by1BQCTO" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/5vnkQXNiBsR" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Staff triage roles</name>
+			<description lang="und">Staff triage roles</description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/6CaK0TkBRnm" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/5YYIZnJPu8U" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/6T74FznfXwT" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Triage tools</name>
+			<description lang="und">Triage tools</description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/5VRMwxgpTFH" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/5nQJ4jLPdNW" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/5cbvhe5SCS8" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/6rDzSyAaaGn" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Popguns</name>
+			<description lang="und">Popguns</description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/6SjieUPKU5y" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/5c4TpW4CpnJ" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/6VcG4PTtosi" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/6WYpnZDFRor" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/5nc9ulCeU2k" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Test your knowledge</name>
+			<description lang="und">Test your knowledge</description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/5nc9ulCeU2k/6WA9w2lMFI8" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Alice, a 63-year-old woman, phones the clinic to ask for an appointment. What do you do first?</name>
+			<description lang="und">Alice, a 63-year-old woman, phones the clinic to ask for an appointment. What do you do first?</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5euUDBISE1c</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_5WuA1ZHImwS</id>
+					<description lang="und">Schedule Alice for the next available appointment or ask her to drop in</description>
+				</component>
+				<component>
+					<id>choice_5euUDBISE1c</id>
+					<description lang="und">Ask Alice if she has an urgent problem</description>
+				</component>
+				<component>
+					<id>choice_5tpAjT20tob</id>
+					<description lang="und">Transfer Alice’s call to the practice nurse or GP </description>
+				</component>
+				<component>
+					<id>choice_6Ksf6aTJJaD</id>
+					<description lang="und">Suggest Alice come in sometime next week when it suits her</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/6BlJEc7VPo3" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">2</name>
+			<description lang="und">2</description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/6BlJEc7VPo3/6dRuzKbiWYd" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Alice tells you she is in pain but she’s not sure how serious it is. What is the best way you can find out more?</name>
+			<description lang="und">Alice tells you she is in pain but she’s not sure how serious it is. What is the best way you can find out more?</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5WM1TX82Djw</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_5WM1TX82Djw</id>
+					<description lang="und">Ask Alice how long she’s had this pain, and how severe it is</description>
+				</component>
+				<component>
+					<id>choice_6jeEiXRqC0J</id>
+					<description lang="und">Tell Alice that because she is in pain she needs to come in right away</description>
+				</component>
+				<component>
+					<id>choice_6T50MHdM8ha</id>
+					<description lang="und">Suggest that Alice call an ambulance because it could be serious</description>
+				</component>
+				<component>
+					<id>choice_6gAatnipA3J</id>
+					<description lang="und">Transfer Alice’s call to the practice nurse or GP</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/60zH8dzVHAK" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">3</name>
+			<description lang="und">3</description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/60zH8dzVHAK/5Xp2wZhMGv9" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Alice tells you the pain is in her stomach. It started yesterday and has been getting worse. Right now, it feels worse than any pain she has ever had. What category would you select for Alice’s symptoms?</name>
+			<description lang="und">Alice tells you the pain is in her stomach. It started yesterday and has been getting worse. Right now, it feels worse than any pain she has ever had. What category would you select for Alice’s symptoms?</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6ZvSWfX6xoU</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_5pyY0ZVrJhB</id>
+					<description lang="und">Category B</description>
+				</component>
+				<component>
+					<id>choice_5l8ObjL3XGj</id>
+					<description lang="und">Category F</description>
+				</component>
+				<component>
+					<id>choice_6ZvSWfX6xoU</id>
+					<description lang="und">Category D</description>
+				</component>
+				<component>
+					<id>choice_5VRkc9KYf6P</id>
+					<description lang="und">Category E</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/6RpTdqxqHrx" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">4</name>
+			<description lang="und">4</description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/6RpTdqxqHrx/5wrsB0e94s2" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">What three things do you need to do next?</name>
+			<description lang="und">What three things do you need to do next?</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5fuZZm24MFY</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_5fuZZm24MFY</id>
+					<description lang="und">Discuss with the GP or nurse as soon as possible, retrieve Alice’s file, document the interaction</description>
+				</component>
+				<component>
+					<id>choice_620gnWFu01Q</id>
+					<description lang="und">Interrupt the GP or nurse, tell Alice to call back if her symptoms get worse, schedule an appointment for the next day</description>
+				</component>
+				<component>
+					<id>choice_5XDDlrxk5kZ</id>
+					<description lang="und">Tell Alice to go to the nearest emergency department, then call to inform them, help Alice find a ride to the emergency department</description>
+				</component>
+				<component>
+					<id>choice_5gCunvOWG2s</id>
+					<description lang="und">Ask Alice if she is free to come in for an appointment this afternoon, suggest she take some pain medication, ask your colleague what they think</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/6B1hEvmRquN" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">General practice triage</name>
+			<description lang="und">General practice triage</description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/6rj3t8NMo3G" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">1</name>
+			<description lang="und">1</description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/6X7bS5jKaKK" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/6NN2zoUtSVK" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/5mDTjxeawbN" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/6VDk2yAeTxF" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Case Study</name>
+			<description lang="und">Case Study</description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/6A4SgSwnE5P" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Test your knowledge</name>
+			<description lang="und">Test your knowledge</description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/6A4SgSwnE5P/6TAjouLqZSY" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">What is the main reason why Richard and Louise need to see the GP today?</name>
+			<description lang="und">What is the main reason why Richard and Louise need to see the GP today?</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6nsUeCyuilt</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6nsUeCyuilt</id>
+					<description lang="und">Medical problem </description>
+				</component>
+				<component>
+					<id>choice_62yS44zJjU2</id>
+					<description lang="und">Routine checkup</description>
+				</component>
+				<component>
+					<id>choice_5t24ZuUbmxS</id>
+					<description lang="und">Other issue</description>
+				</component>
+				<component>
+					<id>choice_6b2i1MswxVe</id>
+					<description lang="und">Injury or trauma </description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/62m0TvRIoOd" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">6</name>
+			<description lang="und">6</description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/62m0TvRIoOd/6GJ5drZeqzz" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Does Louise’s condition appear life threatening?</name>
+			<description lang="und">Does Louise’s condition appear life threatening?</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5dllIohZMof</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_5xkbsLAAkSo</id>
+					<description lang="und">Yes</description>
+				</component>
+				<component>
+					<id>choice_5dllIohZMof</id>
+					<description lang="und">No</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/6LOAA25yRMQ" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">7</name>
+			<description lang="und">7</description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/6LOAA25yRMQ/5ZRRNXRI0zL" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Is an ambulance or referral to an ED immediately required?</name>
+			<description lang="und">Is an ambulance or referral to an ED immediately required?</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_64wFLs671fm</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6qeeryXXU5E</id>
+					<description lang="und">Yes</description>
+				</component>
+				<component>
+					<id>choice_64wFLs671fm</id>
+					<description lang="und">No, but the nurse or doctor may refer them to the emergency department if required</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/5wgCiA74mjB" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Problem solving - client unwilling to share information over the phone</name>
+			<description lang="und">Problem solving - client unwilling to share information over the phone</description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/5m4HkWzaQpj" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/6ggnsLDcrYJ" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/6Nkr4l9DHo4" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Identifying medical emergencies over the phone/ in the waiting area</name>
+			<description lang="und">Identifying medical emergencies over the phone/ in the waiting area</description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/6jawyoqYXc4" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/6VFCuA6KlBA" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/6NL7tJ7s4Eh" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/6iFD7Qq7Npu" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/5vxbf8KSMXu" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Case Study</name>
+			<description lang="und">Case Study</description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/5cEeqDROIpb" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Test your knowledge</name>
+			<description lang="und">Test your knowledge</description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/5cEeqDROIpb/6Vx39Vw02om" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">What should you do?</name>
+			<description lang="und">What should you do?</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6OrqO4Vz8tS</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6HEreLLeX8A</id>
+					<description lang="und">Book Bill an appointment for tomorrow</description>
+				</component>
+				<component>
+					<id>choice_6OrqO4Vz8tS</id>
+					<description lang="und">Ask Bill what his main concern is</description>
+				</component>
+				<component>
+					<id>choice_6Y3lwJMqWN8</id>
+					<description lang="und">Transfer Bill’s call to the practice nurse </description>
+				</component>
+				<component>
+					<id>choice_6Rt7E3wVYIy</id>
+					<description lang="und">Tell Bill he should come in now</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/5c7KW5J1UC8" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Case Study continued</name>
+			<description lang="und">Case Study continued</description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/6dSSOknFCzs" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">9</name>
+			<description lang="und">9</description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/6dSSOknFCzs/5aKGGuCrCYj" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Is this a medical emergency?</name>
+			<description lang="und">Is this a medical emergency?</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6YwmGtp02JR</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6YwmGtp02JR</id>
+					<description lang="und">Yes, chest pain and difficulty breathing are both signs and symptoms of a medical emergency</description>
+				</component>
+				<component>
+					<id>choice_6e90fvoZEix</id>
+					<description lang="und">No, Bill has no reason to be worried</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/6hFWX93g4do" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">10</name>
+			<description lang="und">10</description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/6hFWX93g4do/5m5njXUEliO" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">How would you respond? </name>
+			<description lang="und">How would you respond? </description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6HvVCHrp2D5</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6eEEsFlDD2c</id>
+					<description lang="und">Provide Bill with some reassurance that he’s probably just having an “off” day and book him an appointment for tomorrow</description>
+				</component>
+				<component>
+					<id>choice_6JIycJn3uRQ</id>
+					<description lang="und">Transfer Bill’s call to the practice nurse</description>
+				</component>
+				<component>
+					<id>choice_6iUMlzOg1rq</id>
+					<description lang="und">Hang up and call Bill’s daughter to go check on him</description>
+				</component>
+				<component>
+					<id>choice_6HvVCHrp2D5</id>
+					<description lang="und">Tell Bill that his condition may be serious and that he needs to call an ambulance straight away. Ask if he is able to do that or if he would like you to do it for him</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/6pkn1ibANXJ" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Cautionary case notes</name>
+			<description lang="und">Cautionary case notes</description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/5svdAj5XFvG" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/5qqknEiqCRn" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Alex Braes</name>
+			<description lang="und">Alex Braes</description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/6dXrfzBgJtl" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/6JHnSB6dD9E" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/6CcyW1xG4x9" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/5rUmFXAenMR" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/5tqK2vJYSxg" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/6lpL59I1xXz" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/6mhc18u8Czi" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/6Vckd8CEVxz" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/6Z3IQrZW6uB" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Naomi Williams</name>
+			<description lang="und">Naomi Williams</description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/6F7tLjRuRhs" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/6IFfYCgG0pM" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/64KS5uZGysz" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/5lq7u6uWg01" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Conclusion</name>
+			<description lang="und">Conclusion</description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/6oZHdZtXKgk" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/6oAxO6bSxaB" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/6RLlfUjJmTs" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Ref</name>
+			<description lang="und">Ref</description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/6JIcuzOrBAn" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Case Study</name>
+			<description lang="und">Case Study</description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/6BqQrTJEkLw" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Symptoms</name>
+			<description lang="und">Symptoms</description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/5jsu5JGwmLE" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Case Study</name>
+			<description lang="und">Case Study</description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/61oeDh4Q6IX" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Case Study</name>
+			<description lang="und">Case Study</description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/6M5Klje8wFP" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Case Study</name>
+			<description lang="und">Case Study</description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/5oXEVXKbRCZ" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Case Study continued</name>
+			<description lang="und">Case Study continued</description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/6lK5Xe7nSjc" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Quiz result</name>
+			<description lang="und">Quiz result</description>
+		</activity>
+		<activity id="http://AMs3dTr16dgI1Iy6Zgw_course_id/6rBe5hh8biy" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Quiz results</name>
+			<description lang="und">Quiz results</description>
+		</activity>
+	</activities>
+</tincan>
